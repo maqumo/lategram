@@ -1,0 +1,13 @@
+.header1 {
+  border: 0px solid #000;
+  margin-bottom: 5px;
+}
+
+.seperator {
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+
+.padding {
+  padding: 10px;
+}
