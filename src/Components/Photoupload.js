@@ -14,9 +14,7 @@ return(<>
           <input type="file" name="file" id="file" />
           <label for="file">
             <div>
-              <span class="formbold-drop-file"> Drop files here </span>
-              <span class="formbold-or"> Or </span>
-              <span class="formbold-browse"> Browse </span>
+              
             </div>
           </label>
         </div>
