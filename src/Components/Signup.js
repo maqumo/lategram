@@ -23,6 +23,7 @@ const handleSubmit=(event)=>{
 
 
     const baseURL="http://localhost:5005/signup";
+    console.log("ok");
   axios.post(baseURL,{
         email:email,
         firstName:firstname,
